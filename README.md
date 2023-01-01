@@ -43,10 +43,13 @@ Initialization of E-Commerce-UI
 
 ```
 
+
 - Start the server to run locally
+
+  Before starting the server, the publicly available html will not be render anything because it is a template file only.
+
+  so start the server first from terminal with the following bash command
 
 ```bash
   npm start
 ```
-
-
