@@ -1,2 +1,52 @@
-# E-Commmerce-UI
-This project is all about User Interface of E-Commerce Website.
+
+# E-Commerce-UI
+
+A web based application for user interface of a E-Commerce website. It is a kind of UI-Clone of any E-Commerce website for selling products.
+
+
+
+
+## Installation
+
+Initialization of E-Commerce-UI
+
+```bash
+  npm create-react-app e-commerce-ui
+
+  cd e-commerce-ui
+
+```
+  
+    
+## Run Locally
+
+- Clone the project
+
+```bash
+  git clone : https://github.com/Roopbasant007/E-Commmerce-UI
+```
+- Go to the project directory
+
+```bash
+  cd e-commerce-ui
+
+```
+
+- Install dependencies
+
+```bash
+  npm install react-router-dom
+
+  npm install bootrstrap
+
+  npm install styled-components
+
+```
+
+- Start the server to run locally
+
+```bash
+  npm start
+```
+
+
